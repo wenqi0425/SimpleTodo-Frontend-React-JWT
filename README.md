@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Necessary Packages:
+## Necessary plug-in Packages for this project:
 
 ### `npm i axios`
 ### `npm install react-router-dom@6`
