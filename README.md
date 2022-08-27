@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Introduction
+
+This is my first React FrontEnd project. It works together another C# BackEnd project, SimpleTodoAuth  
+https://github.com/wenqi0425/SimpleTodoAuth
+
+I tried to create a simple todos App by a baby steps. I will continuely update this project when I have time.  
+
 ## Necessary plug-in Packages for this project:
 
 ### `npm i axios`
