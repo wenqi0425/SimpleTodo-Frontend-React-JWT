@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Introduction
 
 This is my first React FrontEnd project. It works together another C# BackEnd project, SimpleTodoAuth  
@@ -16,6 +12,10 @@ I tried to create it by a baby steps. I will continuely update this project when
 ### `npm i axios`
 ### `npm install react-router-dom@6`
 
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
