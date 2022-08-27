@@ -7,7 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is my first React FrontEnd project. It works together another C# BackEnd project, SimpleTodoAuth  
 https://github.com/wenqi0425/SimpleTodoAuth
 
-I tried to create a simple todos App by a baby steps. I will continuely update this project when I have time.  
+The whole project is a Todo App, with Database, Backend with JWT and a React FrontEnd. 
+
+I tried to create it by a baby steps. I will continuely update this project when I have time.  
 
 ## Necessary plug-in Packages for this project:
 
